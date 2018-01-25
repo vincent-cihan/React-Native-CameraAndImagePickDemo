@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.yalantis:ucrop-2.2.1-native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.1-native/2571d20ff9548f46e15a0c35a99c350071c6523e/ucrop-2.2.1-native-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

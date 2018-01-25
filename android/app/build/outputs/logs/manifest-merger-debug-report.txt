@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:8:5-64
+MERGED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:11:5-65
+MERGED from [com.github.react-native-community:cameraview:df60b07573] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:8:22-62
+uses-sdk
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:10:5-12:41
+MERGED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.github.react-native-community:cameraview:df60b07573] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/AndroidManifest.xml:17:5-19:41
+MERGED from [RNNewTestProject:react-native-view-shot:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-view-shot/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [RNNewTestProject:react-native-video:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-video/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.yalantis:ucrop:2.2.1-native] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [RNNewTestProject:react-native-image-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:14:5-31:19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.github.react-native-community:cameraview:df60b07573] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/AndroidManifest.xml:28:5-20
+MERGED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:12:5-27:19
+MERGED from [RNNewTestProject:react-native-image-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:17:7-39
+	android:allowBackup
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:16:7-33
+	android:icon
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:18:7-41
+	android:theme
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:19:7-38
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.rnnewtestproject.MainActivity
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-feature#android.hardware.camera
+ADDED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:13:5-15:36
+MERGED from [com.github.react-native-community:cameraview:df60b07573] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/AndroidManifest.xml:23:5-60
+	android:required
+		ADDED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:15:9-33
+		MERGED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:13:5-15:36
+	android:name
+		ADDED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:16:5-18:36
+MERGED from [com.github.react-native-community:cameraview:df60b07573] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [RNNewTestProject:react-native-camera:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/AndroidManifest.xml:17:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:10:22-78
+provider#android.support.v4.content.FileProvider
+ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:13:9-21:20
+MERGED from [RNNewTestProject:react-native-image-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:15:13-60
+	android:grantUriPermissions
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:17:13-47
+	android:exported
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:18:13-20:58
+MERGED from [RNNewTestProject:react-native-image-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:23:9-26:72
+	android:screenOrientation
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [RNNewTestProject:react-native-image-crop-picker:unspecified] /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/AndroidManifest.xml:24:13-60
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

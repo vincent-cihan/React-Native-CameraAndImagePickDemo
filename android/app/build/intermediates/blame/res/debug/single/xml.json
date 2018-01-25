@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    }
+]

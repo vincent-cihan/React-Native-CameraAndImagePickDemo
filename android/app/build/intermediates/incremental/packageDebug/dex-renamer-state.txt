@@ -1,0 +1,4 @@
+#Thu Jan 25 09:55:57 CST 2018
+base.0=/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

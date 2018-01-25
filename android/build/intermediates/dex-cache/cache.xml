@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_85162ed5d87a8fcb52f2bb3b885e2773d98d0486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ba28de6a41c98d914139ddf7468c3718f0490e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_b99118ca23411bf47eb105cc24f045482a5ba95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_969139981d47cb996cfd97b779d76db71b138f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_21be4d713759303879f57b99e381a1625c05fc1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_7479a4619cb19f5348ab603cdf7c7c7034832b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_46639763ce423c021b6a290d8e0da041f808e809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_bb56c37d5b0aa6661b3f49132c44f20e0e6b883b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-view-shot/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f33bf4b51f0e8a8c648cff13c776b21319899bc3">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-view-shot-unspecified_9100fa70df815f59aa62f8c2bd0d00286c2b23b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_47192353f10887b884b613be62478560dca22002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0ce0cb8a08f94cf1aa32b8b7dee89d85794b985a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_e11bc1cdbb048511be0435b6981607742556ff59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_02c162b56ca7b80880f23653cb6dec8f44d33345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ed413a4bc1bc855e6a84f336c7dd8c0a9a994b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_58733e95869b11db1abf2e99609c16e240a22dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_ba3164dcbe0eab59c4763c460a1d6de19cac6805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_316372b38ff0e209d994db064261ee9cd3eefccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e492787f157c13839c02e0b7293871dbaed9911">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.github.yalantis-ucrop-2.2.1-native_5d05de8b0b5bd356a7123fdcb9b52955e9df0424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_1a1550712fa0d53930d582956b4b75ed0f507fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_1c4f57742d10267759612560778a1e1f0961f363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_0e6b23b40f5d8b63d613e542ca5333dece9f5279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7f6b1f5d06363c1c11300f015a8e20b9a0ee9229">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-image-crop-picker-unspecified_4adac2007520d2caf8196faacf9ecba5a7258eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_aced5dd8d029d0fa528327ebf863b200fd1c6cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-video-unspecified_04ee2c6568bf236b88ed0abc313c4a3cb549f44e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_62392a8486469ae31a20074fbce4c65d69b38d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_9f6d97bcfca46cbdbdeda83c8f2af95ee1c2f824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_e82e316cc5a4d6e5d9d5e93e4cf603569a8f4e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3a310ff99ed14378be55e2426650f2173ee28e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f9e93bf45cc2082f84db3f27930651edc6ac55fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-video-unspecified_126b032d94e0febe6daef9cdf0e31966505b851a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_061a43c52cf4baf94ed62cae11b10a22b1c5b4ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3c163af88b8ee13649314e4f8c8e13ab2514fad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e492787f157c13839c02e0b7293871dbaed9911">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.github.yalantis-ucrop-2.2.1-native_8ffa4f60850cf9d8363fd4aed2cad9456ef8a70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ecb6e3db5a566536412db83301579bba829178c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_6a9665018fb97e7d91daa3a68801cb14e6d4efac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_50ea232381a1650ed33e4d61acb1c7e73618151a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_8b690dc58dcdecc9e8ef8cf03db33f0a051b0857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_c0378016bff929fe846c09cd392f23e57c4a627a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_e998321214c7084c02d39d813debd0d57cccca81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_a153558bb440ca5690db4f4a6e711ab807ce9225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_06961198d014e253cef839326f401a168895ece0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efeb573638d6b2c0d30fbf3e60641272600cf3fe">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-image-picker-unspecified_21a3cf86dfb5d991718ad13ad277b4a6bc859fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_7734d872a5a35e980bbb4dd9d62703e0424a7c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_24db96bd84f58d08fda13676e0eddb0846a35c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ccfe704fac23d29e7c80315bd815d21b952dc5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_51b5e481c98a44160c86056cd88e766b55217c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_52a2af93bc47ce7c4c0f5ce912f6fdad8e2b3205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5abbd107cfd6df98fc9fa1bbbf77958b44f18617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.3_0d498b2cc72740ab3fa685b77a7eb603c5f47539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c094bddec0ab989e3d51ed13429cc7b08e030e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_f6d0dca30596f4343ea6b60327b292cda2724517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_4e8e65ddd17ba1f0ee3e341ad80a79b35e66be85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_9d49f607acc3c5c959e4bf562fd7d8f0e82a19c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_97f108f9791f5db85fcd81d6bc6fe2b99dcd9dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_bbfbcd276e12ff220ba62e21ac789c9103bd5ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_83bb6011d75426ce3df9b42e3fa05b5ba78f98ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_42691a7788e4eb35935f3be6d45cdb02eda85ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_fa6410dc1030736b153ed6578dc20521b12e1bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4a501e65739b10f7546ee94bbd32996a557275bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_848f9e7b51edec7fdb106730a38a10f74b87afc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_d85e48fdb2c5b0f56ca10d763b0bf0f5e8b51417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.3_2655ed82a68ebc098a011e28c7eb99a77e69a104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efeb573638d6b2c0d30fbf3e60641272600cf3fe">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-image-picker-unspecified_94954daaa805642e4d8ffcf615d5582070faf454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_95d5d2003c4a0ec9a8c6d0678d7bc2904c3f0eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7876f07cbfde9d98d33dc9a1cefa71af99fb0d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_33da676b56eb2b61cc3a4e79757f30edea1c8913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_d13a386c2fff98d1fbe2d6c09bf24c6ee1173841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_6488eaf6e985cbf6254a39261d90168cd5a5e260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_fb339dda08baa827e963023fa7ade292ac6fa800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_9603a65c4cfdb192ee2a74ecdb3c25198fcc8f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_f4e1d72bb84aac344c738de0693b1f6e1a5dfdd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_ea91e9fadeffabab15d527dbf30c4c92b163deba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_be40e11211b357b8810e6effc4096609208d23fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_bed3930d232fdf1389e82167b18ea9669dea6508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_69576375eedecd7e7e4ca816f84b9d41405d7a53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-view-shot/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f33bf4b51f0e8a8c648cff13c776b21319899bc3">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-view-shot-unspecified_6cbbb6d5db3850471741e69c538b2ecabfc17302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_b9f1bdb06ccd39205a37e6944f9782e16d27aa6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_8040e674aa40bebd4b39afebb126828216805dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_2f7b94a80d97a9fd1cf852e8f93e58ba6f376919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7f6b1f5d06363c1c11300f015a8e20b9a0ee9229">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-image-crop-picker-unspecified_7fcc5ac28b3a431a1031701d3cff436fdff8e190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_eee83d565e81d4f3173247ad8e94cc11a35633fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6011f35f886d86ba2e3c5f42309032ba0df77151">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-df60b07573_f4a79a017dd043d52f842b3fb3d0c527e3f49756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="792b639bb18675a4d0857f655c82d814399788ce">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-camera-unspecified_867229efd5c3fb04cacd9bba3b60f29d4adfd5ef.jar" />
+    </item>
+
+</items>

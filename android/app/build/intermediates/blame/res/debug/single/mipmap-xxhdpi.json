@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
