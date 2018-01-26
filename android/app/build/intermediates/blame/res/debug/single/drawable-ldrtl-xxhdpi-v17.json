@@ -4,6 +4,10 @@
         "source": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -16,12 +20,20 @@
         "source": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",

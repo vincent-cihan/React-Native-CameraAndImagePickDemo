@@ -300,7 +300,7 @@ export default class CameraDetail extends React.Component {
           </TouchableOpacity>
         </View>
         <View style={[styles.overlay, styles.bottomOverlay]}>
-          <Button style={styles.button} title='取消'/>
+          <Button type='link' size='lg' titleStyle={{color:'white'}} style={styles.button} title='返回' onPress={() => {this.props.navigation.goBack()}}/>
           <TouchableOpacity style={styles.captureButton} onPress={this.takePicture}>
             <Image source={require('./images/ic_photo_camera_36pt.png')} />
           </TouchableOpacity>

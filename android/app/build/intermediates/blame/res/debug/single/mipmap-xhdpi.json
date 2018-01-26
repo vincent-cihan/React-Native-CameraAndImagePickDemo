@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/lyhhomemac/Desktop/tempGit/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/lyhhomemac/Desktop/RNNewTestProject 2/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },

@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_beeda11718ebf10b407421a5751f35fd35341149.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d415eb7e7fff8fb6df60183c69e984bf1dae3cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-view-shot/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -90,6 +108,24 @@
         revision="23.0.1"
         sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_47192353f10887b884b613be62478560dca22002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_68b42014850c80379f1e1167fe7b7b828babcb30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_6b68b47f82df0079eba44cc36dcb321f72daba7e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +147,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_02c162b56ca7b80880f23653cb6dec8f44d33345.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a79a2a6589572452a9b7692cf486e593aa36bdb3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -126,6 +162,33 @@
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ed413a4bc1bc855e6a84f336c7dd8c0a9a994b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a55ed57c18862b5ae03556e359c3d2c35eceff56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_02c162b56ca7b80880f23653cb6dec8f44d33345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="792b639bb18675a4d0857f655c82d814399788ce">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-camera-unspecified_04bead1f858367d6f186a3524879f292fa76583a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,12 +228,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c88e6c2d4f2ab1833b023be97283a541041b8f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_1a1550712fa0d53930d582956b4b75ed0f507fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_97a577368fb4bece79de657d3c98bc8d2f5e899c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -264,6 +345,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_a5fa6a959a525ca4373a5dab459ea0825ec24bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_255ce56e67ca060b20ce9057ce8b6fd756aa822a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7f6b1f5d06363c1c11300f015a8e20b9a0ee9229">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-image-crop-picker-unspecified_b987110500d2a9a6a2e0f6d2ae2f9c15c3174c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-video/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -288,6 +396,15 @@
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3c163af88b8ee13649314e4f8c8e13ab2514fad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_9398a08325791b2f0234b2f5d0918c533f091a48.jar" />
     </item>
     <item
         is-multidex="false"
@@ -327,6 +444,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d5d7e95a0b16c3fd28dc5c35c86e196df22ade75.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -345,6 +471,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f8c0dac71b3e5fa5f20eb0c1478f23ccab1def31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e492787f157c13839c02e0b7293871dbaed9911">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.github.yalantis-ucrop-2.2.1-native_c32865a3a31ebbd2863aadbba6a2bba64586092e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -360,6 +504,15 @@
         revision="23.0.1"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_a153558bb440ca5690db4f4a6e711ab807ce9225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_9bc0a729efe58922b3189caaa5da42fa4944a231.jar" />
     </item>
     <item
         is-multidex="false"
@@ -387,6 +540,15 @@
         revision="23.0.1"
         sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_7734d872a5a35e980bbb4dd9d62703e0424a7c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.3_ca3e5f815e11738b20db7dc0be993a5b45289c6c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -435,6 +597,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_c48d5066cc4f02e262e7117acdc1cb28d1c6bd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -459,6 +630,24 @@
         revision="23.0.1"
         sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_f6d0dca30596f4343ea6b60327b292cda2724517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efeb573638d6b2c0d30fbf3e60641272600cf3fe">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-image-picker-unspecified_94e9a2a81c71d8d32bb6652227492034f9540ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_6af2ed277d21ce944786283be523b868021e304d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -498,6 +687,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_be7fc06a95e721300fae6a6059f755777fb42ab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -513,6 +711,15 @@
         revision="23.0.1"
         sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_42691a7788e4eb35935f3be6d45cdb02eda85ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6011f35f886d86ba2e3c5f42309032ba0df77151">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-df60b07573_adeb786a3f836a4be4aa59d7df06b4dc9b5839e9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -534,6 +741,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_2c59efda58e78db9ad9e104c71d22374eed86569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_38cf5076c65760f3cb5e99c213fe1178d1ebc09d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -543,12 +768,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_6bc4748889adbfda316e1cf889b31d7248c5e991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_b7ff69bc14317bae64e10aaade2cc909c8bd749f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_68f61c9ba648b16520a9120964d35b3d71377c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c4ef5ee6876062f112072be56f9cf2ff2cfc6e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_d85e48fdb2c5b0f56ca10d763b0bf0f5e8b51417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-video-unspecified_741b7dfb611074879c174097932eeb3b69f89880.jar" />
     </item>
     <item
         is-multidex="false"
@@ -579,15 +849,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7876f07cbfde9d98d33dc9a1cefa71af99fb0d26.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/lyhhomemac/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
         jumboMode="false"
         optimize="true"
@@ -597,12 +858,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7876f07cbfde9d98d33dc9a1cefa71af99fb0d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_d13a386c2fff98d1fbe2d6c09bf24c6ee1173841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_cad21854679771540262a6aef4891fd5883f939f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -639,6 +918,15 @@
         revision="23.0.1"
         sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_f4e1d72bb84aac344c738de0693b1f6e1a5dfdd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_481601f40c836d5be909d5babd17b424bbd15eb3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -705,12 +993,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_18ea093092bdcedfb0e1f945dbd14742c0007850.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProject/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_2f7b94a80d97a9fd1cf852e8f93e58ba6f376919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_95c4ff1f0739f33a9500b3b36a28a4d9f8cb0036.jar" />
     </item>
     <item
         is-multidex="false"
@@ -723,12 +1029,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_85f976635cea2032d24896d7c9cb38fab63a3b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
         <dex dex="/Users/lyhhomemac/Desktop/RNNewTestProjectNew/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_eee83d565e81d4f3173247ad8e94cc11a35633fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/RNNewTestProject/react-native-view-shot/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f33bf4b51f0e8a8c648cff13c776b21319899bc3">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/RNNewTestProject-react-native-view-shot-unspecified_5288afca475379b8eeb3f28cd58c769521de5a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_d0ba04166de3ce0e1a54c108a9b18c855a56d3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_ca4fb8df220b3831c548d6b9eafb0d75cb471ee3.jar" />
     </item>
     <item
         is-multidex="false"

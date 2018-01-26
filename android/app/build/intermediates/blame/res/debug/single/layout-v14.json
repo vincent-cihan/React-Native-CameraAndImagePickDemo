@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/res/merged/debug/layout-v14/texture_view.xml",
+        "source": "/Users/lyhhomemac/Desktop/tempGit/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/res/layout-v14/texture_view.xml"
+    },
+    {
         "merged": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/res/merged/debug/layout-v14/texture_view.xml",
         "source": "/Users/lyhhomemac/Desktop/RN工具/RNNewTestProject/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/res/layout-v14/texture_view.xml"
     },
