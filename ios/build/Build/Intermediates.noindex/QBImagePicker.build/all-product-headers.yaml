@@ -4,33 +4,33 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/QBImagePicker.framework/Headers",
+      'name': "/Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/QBImagePicker.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "QBImagePicker-Swift.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/QBImagePicker.framework/Headers/QBImagePicker-Swift.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/QBImagePicker.framework/Headers/QBImagePicker-Swift.h"
         },
         {
           'type': 'file',
           'name': "QBImagePicker.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native-image-crop-picker/ios/QBImagePicker/QBImagePicker/QBImagePicker.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/node_modules/react-native-image-crop-picker/ios/QBImagePicker/QBImagePicker/QBImagePicker.h"
         },
         {
           'type': 'file',
           'name': "QBImagePickerController.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native-image-crop-picker/ios/QBImagePicker/QBImagePicker/QBImagePickerController.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/node_modules/react-native-image-crop-picker/ios/QBImagePicker/QBImagePicker/QBImagePickerController.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/QBImagePicker.framework/Modules",
+      'name': "/Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/QBImagePicker.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Intermediates.noindex/QBImagePicker.build/Debug-iphonesimulator/QBImagePicker.build/module.modulemap"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Intermediates.noindex/QBImagePicker.build/Debug-iphonesimulator/QBImagePicker.build/module.modulemap"
         }
       ]
     }

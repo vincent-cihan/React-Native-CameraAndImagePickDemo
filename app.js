@@ -14,6 +14,7 @@ import Detail from './Detail';
 import CameraDetail from './CameraDetail';
 
 import {Button} from 'teaset';
+import MobxTestFirstPage from "./MobxTestFirstPage";
 
 const StackOptions = ({navigation}) => {
   console.log(navigation);
@@ -66,6 +67,9 @@ export default App = StackNavigator({
         header: null
       }
     }
+  },
+  MobxTestFirstPage: {
+    screen: MobxTestFirstPage
   }
 },{
   headerMode: 'screen',

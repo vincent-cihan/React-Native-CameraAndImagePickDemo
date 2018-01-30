@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTPicker.m \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTPicker.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTPicker.m \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTPicker.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/lyhhomemac/Desktop/tempGit/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

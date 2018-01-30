@@ -82,6 +82,10 @@ export default class Home extends Component {
     })
   }
 
+  _mobxTestPress = () => {
+    this.props.navigation.navigate('MobxTestFirstPage');
+  }
+
 
   render() {
     return (
@@ -101,6 +105,7 @@ export default class Home extends Component {
           <Button type='primary' size='md' title='ImageCropPicker拍照' onPress={() => this._selectCamera(true)} style={styles.button}/>
           <Button type='primary' size='md' title='ImageCropPicker多选图片' onPress={this._selectMultiPhotosPress} style={styles.button}/>
           <Button type='primary' size='md' title='基于react-native-camera拖拽选取拍照' onPress={this._nextPagePress} style={styles.button}/>
+          <Button type='primary' size='md' title='mobx购物车例子' onPress={this._mobxTestPress} style={styles.button}/>
         </View>
       </View>
     );

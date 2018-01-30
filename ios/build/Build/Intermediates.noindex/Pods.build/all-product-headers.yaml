@@ -4,103 +4,103 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/QBImagePickerController",
+      'name': "/Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/QBImagePickerController",
       'contents': [
         {
           'type': 'file',
           'name': "QBAlbumCell.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBAlbumCell.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBAlbumCell.h"
         },
         {
           'type': 'file',
           'name': "QBAlbumsViewController.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBAlbumsViewController.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBAlbumsViewController.h"
         },
         {
           'type': 'file',
           'name': "QBAssetCell.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBAssetCell.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBAssetCell.h"
         },
         {
           'type': 'file',
           'name': "QBAssetsViewController.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBAssetsViewController.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBAssetsViewController.h"
         },
         {
           'type': 'file',
           'name': "QBCheckmarkView.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBCheckmarkView.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBCheckmarkView.h"
         },
         {
           'type': 'file',
           'name': "QBImagePickerController.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBImagePickerController.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBImagePickerController.h"
         },
         {
           'type': 'file',
           'name': "QBSlomoIconView.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBSlomoIconView.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBSlomoIconView.h"
         },
         {
           'type': 'file',
           'name': "QBVideoIconView.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBVideoIconView.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBVideoIconView.h"
         },
         {
           'type': 'file',
           'name': "QBVideoIndicatorView.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/QBImagePickerController/QBImagePicker/QBVideoIndicatorView.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/QBImagePickerController/QBImagePicker/QBVideoIndicatorView.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/build/Build/Products/Debug-iphonesimulator/RSKImageCropper",
+      'name': "/Users/lyhhomemac/Desktop/tempGit/ios/build/Build/Products/Debug-iphonesimulator/RSKImageCropper",
       'contents': [
         {
           'type': 'file',
           'name': "CGGeometry+RSKImageCropper.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/CGGeometry+RSKImageCropper.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/CGGeometry+RSKImageCropper.h"
         },
         {
           'type': 'file',
           'name': "RSKImageCropViewController+Protected.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageCropViewController+Protected.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageCropViewController+Protected.h"
         },
         {
           'type': 'file',
           'name': "RSKImageCropViewController.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageCropViewController.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageCropViewController.h"
         },
         {
           'type': 'file',
           'name': "RSKImageCropper.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageCropper.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageCropper.h"
         },
         {
           'type': 'file',
           'name': "RSKImageScrollView.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageScrollView.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/RSKImageScrollView.h"
         },
         {
           'type': 'file',
           'name': "RSKInternalUtility.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/RSKInternalUtility.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/RSKInternalUtility.h"
         },
         {
           'type': 'file',
           'name': "RSKTouchView.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/RSKTouchView.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/RSKTouchView.h"
         },
         {
           'type': 'file',
           'name': "UIApplication+RSKImageCropper.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/UIApplication+RSKImageCropper.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/UIApplication+RSKImageCropper.h"
         },
         {
           'type': 'file',
           'name': "UIImage+RSKImageCropper.h",
-          'external-contents': "/Users/lyhhomemac/Desktop/RNNewTestProjectNew/ios/Pods/RSKImageCropper/RSKImageCropper/UIImage+RSKImageCropper.h"
+          'external-contents': "/Users/lyhhomemac/Desktop/tempGit/ios/Pods/RSKImageCropper/RSKImageCropper/UIImage+RSKImageCropper.h"
         }
       ]
     }
